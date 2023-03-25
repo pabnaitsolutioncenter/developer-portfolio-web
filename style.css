@@ -1,6 +1,5 @@
 body {
     font-family: 'Poppins', sans-serif;
-    margin: 0;
 }
 
 h2 {
@@ -46,8 +45,6 @@ p {
     background-repeat: no-repeat;
     background-position: bottom left, bottom right;
     align-items: center;
-
-
 }
 
 .info {
@@ -58,7 +55,6 @@ p {
     padding: 10px 50px;
     font-weight: 700;
     font-size: 25px;
-    font-weight: 100;
     margin: auto;
     color: #757575
 }
@@ -67,7 +63,6 @@ p {
     display: block;
     font-weight: 600;
     color: #474747;
-
 }
 
 .imges-bg {
