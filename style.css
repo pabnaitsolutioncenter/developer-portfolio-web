@@ -105,3 +105,21 @@ p {
 .experiance p {
     color: #757575;
 }
+
+.resume-title {
+    text-align: center;
+}
+
+.my-resume {
+    display: flex;
+    margin: 10px 60px;
+}
+
+.exp-devided {
+    padding-left: 20px;
+}
+
+.resume-cv {
+    margin-top: 50px;
+    text-align: center;
+}
