@@ -25,7 +25,7 @@ p {
 .cv {
     text-decoration: none;
     background-color: orange;
-    padding: 20px 60px;
+    padding: 15px 30px;
     border-radius: 5px;
     font-weight: 800;
     color: white;
@@ -108,16 +108,33 @@ p {
 
 .resume-title {
     text-align: center;
+    font-size: 30px;
+    padding: 100px 0px 50px;
 }
 
 .my-resume {
     display: flex;
-    margin: 10px 60px;
+    margin: 20px 60px;
+}
+
+.my-resume h4 {
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.my-resume h3 {
+    font-size: 16px;
+}
+
+.my-resume h5,
+p {
+    color: #757575;
 }
 
 .exp-devided {
     padding-left: 20px;
 }
+
 
 .resume-cv {
     margin-top: 50px;
