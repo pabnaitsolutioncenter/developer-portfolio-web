@@ -83,3 +83,25 @@ p {
     font-weight: 100;
     color: #757575;
 }
+
+.exp-head {
+    text-align: center;
+    font-size: 30px;
+}
+
+.do {
+    display: flex;
+    margin: 10px 60px;
+}
+
+
+.experiance {
+    background-color: azure;
+    margin-left: 20px;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.experiance p {
+    color: #757575;
+}
