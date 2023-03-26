@@ -96,7 +96,7 @@ p {
 
 
 .experiance {
-    background-color: azure;
+    background-color: whitesmoke;
     margin-left: 20px;
     padding: 30px;
     border-radius: 10px;
@@ -139,4 +139,39 @@ p {
 .resume-cv {
     margin-top: 50px;
     text-align: center;
+}
+
+.social-logo {
+    display: flex;
+}
+
+.massage-me {
+    display: flex;
+    margin: 100px 80px 0px;
+    padding: 100px 200px;
+    background-color: #FFF8F3;
+    gap: 100px;
+}
+.massage-me h4{
+    font-size: 35px;
+}
+
+.massage-area {
+    border-radius: 10px;
+    border: 0;
+    padding: 20px;
+    background-color: white;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.sub-btn{
+    text-decoration: none;
+    color: white;
+    padding: 25px 35px;
+    background-color: orangered;
+    border-radius: 10px;
+    font-weight: 800;
+    font-size: 20px;
+    border: 0;
 }
